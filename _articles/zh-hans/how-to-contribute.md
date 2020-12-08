@@ -1,7 +1,7 @@
 ---
 lang: zh-hans
 title: 如何为开源做贡献
-description: 想为开源贡献力量？本指南针为"菜鸟"和初学者而准备！
+description: 想为开源贡献力量？本指南为"菜鸟"和初学者而准备！
 class: contribute
 order: 1
 image: /assets/images/cards/contribute.png
@@ -217,6 +217,8 @@ redirect_from: /zh-cn/how-to-contribute/
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
 * [像忍者一样贡献](https://contributor.ninja)
+* [最初的贡献](https://firstcontributions.github.io)
+* [SourceSort](https://www.sourcesort.com/)
 
 ### 提交贡献之前的检查列表
 
