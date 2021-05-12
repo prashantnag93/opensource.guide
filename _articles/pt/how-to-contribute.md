@@ -30,7 +30,7 @@ Seja codificando, desenhando interface do usuário, desenhando gráfico, escreve
 
 ### Encontre pessoas que estão interessadas em coisas parecidas
 
-Projetos open source com comunidades calorosas e acolhedoras mantêm as pessoas voltando por anos. Muitas pessoas formam amizades duradouras através da participação em open source, seja em reuniões em conferências ou conversas online sobre burritos.
+Projetos open source com comunidades calorosas e acolhedoras mantêm as pessoas voltando por anos. Muitas pessoas formam amizades duradouras através da participação em open source, seja em reuniões, em conferências ou conversas online sobre burritos.
 
 ### Encontre mentores e ensine outras pessoas
 
@@ -217,7 +217,7 @@ Você também pode usar um dos seguintes recursos para ajudá-lo a descobrir e c
 * [Up For Grabs](https://up-for-grabs.net/)
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
 
 ### Um checklist antes de você contribuir
 
